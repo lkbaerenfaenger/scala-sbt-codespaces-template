@@ -5,9 +5,10 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "Exelord.git-commits",
+        "GitHub.copilot",
         "scala-lang.scala",
-        "scalameta.metals",
-        "GitHub.copilot"
+        "scalameta.metals"
       ]
     }
   }
