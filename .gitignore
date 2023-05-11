@@ -10,4 +10,6 @@ project/target/
 target/
 
 # VS Code
-.vscode/
+.vscode/*
+!.vscode/settings.json
+
