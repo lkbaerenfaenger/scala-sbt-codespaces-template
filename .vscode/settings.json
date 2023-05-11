@@ -1,10 +1,23 @@
 {
-  "files.watcherExclude": {
-    "**/target": true
-  },
+  // Formatting
+  "editor.defaultFormatter": "scalameta.metals",
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  // Indentation
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
-  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2,
+
+  // Rulers
   "editor.rulers": [ 100 ],
-  "editor.tabSize": 2
+
+  // Whitespace
+  "editor.renderWhitespace": "boundary",
+
+  // Various
+  "files.watcherExclude": {
+    "**/target": true
+  }
 }
