@@ -1,5 +1,13 @@
-*.class
-*.log
+# macOS
+.DS_Store
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Metals
+.metals/
+
+# sbt
+project/project/
+project/target/
+target/
+
+# VS Code
+.vscode/
