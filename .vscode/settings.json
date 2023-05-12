@@ -1,17 +1,19 @@
 {
   // Formatting
   "editor.defaultFormatter": "scalameta.metals",
-  "editor.formatOnType": true,
-  "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
 
   // Indentation
   "editor.detectIndentation": false,
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
 
-  // Rulers
+  // Line length
   "editor.rulers": [ 100 ],
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 100,
 
   // Whitespace
   "editor.renderWhitespace": "boundary",
