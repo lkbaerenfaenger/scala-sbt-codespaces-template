@@ -1,4 +1,8 @@
 {
+  // Font
+  "editor.fontFamily": "Monaco, Menlo, monospace",
+  "terminal.integrated.fontFamily": "Monaco, Menlo, monospace",
+
   // Formatting
   "editor.defaultFormatter": "scalameta.metals",
   "editor.formatOnPaste": true,
