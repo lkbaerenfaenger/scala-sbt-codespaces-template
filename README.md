@@ -21,14 +21,14 @@ The repository also defines VS Code settings, which, among other things, provide
 3. When prompted by Metals with "New sbt workspace detected", click "Import build".
 
 Optionally, refactor the following files and directories to remove references to this repository template:
-   - [`.devcontainer/devcontainer.json`](.devcontainer/devcontainer.json)
-     - `name`
-   - [`build.sbt`](build.sbt)
-     - `organization`
-     - `name`
-   - [`src/main/scala`](src/main/scala)
-     - Package declaration in [`HelloWorld.scala`](src/main/scala/com/typeduke/helloworld/HelloWorld.scala)
-     - Package subdirectories accordingly
-   - [`src/test/scala`](src/test/scala)
-     - Package declaration in [`HelloWorldTest.scala`](src/test/scala/com/typeduke/helloworld/HelloWorldTest.scala)
-     - Package subdirectories accordingly
+- [`.devcontainer/devcontainer.json`](.devcontainer/devcontainer.json)
+  - `name`
+- [`build.sbt`](build.sbt)
+  - `organization`
+  - `name`
+- [`src/main/scala`](src/main/scala)
+  - Package declaration in [`HelloWorld.scala`](src/main/scala/com/typeduke/helloworld/HelloWorld.scala)
+  - Package subdirectories accordingly
+- [`src/test/scala`](src/test/scala)
+  - Package declaration in [`HelloWorldTest.scala`](src/test/scala/com/typeduke/helloworld/HelloWorldTest.scala)
+  - Package subdirectories accordingly
