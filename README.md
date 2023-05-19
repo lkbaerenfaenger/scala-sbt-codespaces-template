@@ -23,14 +23,14 @@ The repository also defines VS Code settings, which, among other things, provide
 1. [Create a new repository based on this repository template.](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 2. [Create a codespace for the new repository.](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository)
 3. Replace the following values to match your project:
-  - [`.devcontainer/devcontainer.json`](.devcontainer/devcontainer.json)
-    - `name`
-  - [`build.sbt`](build.sbt)
-    - `organization`
-    - `name`
-  - [`src/main/scala`](src/main/scala)
-    - Package declaration in [`HelloWorld.scala`](src/main/scala/com/typeduke/helloworld/HelloWorld.scala)
-    - Package subdirectories accordingly
-  - [`src/test/scala`](src/test/scala)
-    - Package declaration in [`HelloWorld.scala`](src/test/scala/com/typeduke/helloworld/HelloWorldTest.scala)
-    - Package subdirectories accordingly
+    - [`.devcontainer/devcontainer.json`](.devcontainer/devcontainer.json)
+      - `name`
+    - [`build.sbt`](build.sbt)
+      - `organization`
+      - `name`
+    - [`src/main/scala`](src/main/scala)
+      - Package declaration in [`HelloWorld.scala`](src/main/scala/com/typeduke/helloworld/HelloWorld.scala)
+      - Package subdirectories accordingly
+    - [`src/test/scala`](src/test/scala)
+      - Package declaration in [`HelloWorld.scala`](src/test/scala/com/typeduke/helloworld/HelloWorldTest.scala)
+      - Package subdirectories accordingly
