@@ -1,4 +1,4 @@
-# scala-codespaces-template
+# scala-sbt-codespaces-template
 
 A repository template for Scala development in Codespaces
 
