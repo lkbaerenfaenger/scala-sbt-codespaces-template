@@ -30,5 +30,5 @@ Optionally, refactor the following files and directories to remove references to
      - Package declaration in [`HelloWorld.scala`](src/main/scala/com/typeduke/helloworld/HelloWorld.scala)
      - Package subdirectories accordingly
    - [`src/test/scala`](src/test/scala)
-     - Package declaration in [`HelloWorld.scala`](src/test/scala/com/typeduke/helloworld/HelloWorldTest.scala)
+     - Package declaration in [`HelloWorldTest.scala`](src/test/scala/com/typeduke/helloworld/HelloWorldTest.scala)
      - Package subdirectories accordingly
