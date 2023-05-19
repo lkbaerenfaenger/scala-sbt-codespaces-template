@@ -1,6 +1,6 @@
 organization := "com.typeduke"
 
-name := "scala-template"
+name := "scala-codespaces-template"
 
 version := "0.0.1"
 
