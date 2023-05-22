@@ -23,6 +23,7 @@
   "editor.renderWhitespace": "boundary",
 
   // Various
+  "explorer.sortOrder": "type",
   "files.watcherExclude": {
     "**/target": true
   }
