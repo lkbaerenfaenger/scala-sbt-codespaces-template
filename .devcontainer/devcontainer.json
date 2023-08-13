@@ -1,12 +1,12 @@
 {
   "name": "scala-sbt-codespaces-template",
-  "image": "sbtscala/scala-sbt:eclipse-temurin-jammy-17.0.5_8_1.8.2_3.2.2",
+  "image": "sbtscala/scala-sbt:eclipse-temurin-jammy-17.0.5_8_1.9.3_3.3.0",
   "customizations": {
     "vscode": {
       "extensions": [
         // Scala
-        "scala-lang.scala@0.5.6",
-        "scalameta.metals@1.23.0",
+        "scala-lang.scala@0.5.7",
+        "scalameta.metals@1.24.4",
         // Git
         "Exelord.git-commits"
         // Various

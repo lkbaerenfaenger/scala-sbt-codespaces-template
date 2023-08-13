@@ -16,9 +16,10 @@ The repository also defines VS Code settings, which, among other things, provide
 
 ## Releases
 
-| Branch                                                                           | Ubuntu  | JDK (Eclipse Temurin) | Scala         | sbt         | ScalaTest<br>(sbt dependency) | Scala Syntax<br>(VS Code extension) | Scala Metals<br>(VS Code extension) | Scalafmt<br>(via Scala Metals) |
-| -------------------------------------------------------------------------------- | ------- | --------------------- | ------------- | ----------- | ----------------------------- | ----------------------------------- | ----------------------------------- | ------------------------------ |
-| **[main](https://github.com/typeduke/scala-sbt-codespaces-template/tree/main)** | 22.04.1 | 17.0.5+8              | 3.2.2         | 1.8.2       | 3.2.15                        | 0.5.6                               | 1.23.0                              | 3.7.3                          |
+| Branch                                                                                                       | Ubuntu  | JDK (Eclipse Temurin) | Scala         | sbt         | ScalaTest<br>(sbt dependency) | Scala Syntax<br>(VS Code extension) | Scala Metals<br>(VS Code extension) | Scalafmt<br>(via Scala Metals) |
+| ------------------------------------------------------------------------------------------------------------ | ------- | --------------------- | ------------- | ----------- | ----------------------------- | ----------------------------------- | ----------------------------------- | ------------------------------ |
+| **[main](https://github.com/typeduke/scala-sbt-codespaces-template/tree/main)**                              | 22.04.1 | 17.0.5+8              | 3.3.0         | 1.9.3       | 3.2.16                        | 0.5.7                               | 1.24.4                              | 3.7.12                         |
+| **[scala-3.2.2-1.8.2](https://github.com/typeduke/scala-sbt-codespaces-template/tree/scala-3.2.2-1.8.2)**    | 22.04.1 | 17.0.5+8              | 3.2.2         | 1.8.2       | 3.2.15                        | 0.5.6                               | 1.23.0                              | 3.7.3                          |
 
 ## Getting started
 
