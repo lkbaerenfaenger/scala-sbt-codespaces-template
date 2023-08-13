@@ -5,8 +5,8 @@
     "vscode": {
       "extensions": [
         // Scala
-        "scala-lang.scala",
-        "scalameta.metals",
+        "scala-lang.scala@0.5.6",
+        "scalameta.metals@1.23.0",
         // Git
         "Exelord.git-commits"
         // Various
