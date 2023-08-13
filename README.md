@@ -14,6 +14,12 @@ It also enables several VS Code extensions, including [Scala Syntax](https://mar
 
 The repository also defines VS Code settings, which, among other things, provide that [Scalafmt](https://scalameta.org/scalafmt/) is the default formatter and that it is applied automatically upon saving a file.
 
+## Releases
+
+| Branch            | Ubuntu  | Java         | Scala         | sbt         | ScalaTest<br>(sbt dependency) | Scala Syntax<br>(VS Code extension) | Scala Metals<br>(VS Code extension) | Scalafmt<br>(via Scala Metals) |
+| ----------------- | ------- | ------------ | ------------- | ----------- | ----------------------------- | ----------------------------------- | ----------------------------------- | ------------------------------ |
+| [main](tree/main) | 22.04.1 | jdk-17.0.5+8 | 3.2.2         | 1.8.2       | 3.2.15                        | 0.5.6                               | 1.23.0                              | 3.7.3                          |
+
 ## Getting started
 
 1. [Create a new repository based on this repository template.](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
