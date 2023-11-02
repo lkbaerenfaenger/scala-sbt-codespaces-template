@@ -1,7 +1,7 @@
 {
   // Font
-  "editor.fontFamily": "Monaco, Menlo, monospace",
-  "terminal.integrated.fontFamily": "Monaco, Menlo, monospace",
+  "editor.fontFamily": "JetBrains Mono, Monaco, Menlo, monospace",
+  "terminal.integrated.fontFamily": "JetBrains Mono, Monaco, Menlo, monospace",
 
   // Formatting
   "editor.defaultFormatter": "scalameta.metals",
